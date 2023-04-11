@@ -1,1 +1,1 @@
-# Password-generator
+A password generator which can generate passwords upto a user specified length.
